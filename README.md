@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML and Computer vision
 - 👯 I’m looking to collaborate on Flutter projects
 - 💬 Ask me about Flutter, Android, Django, Python
-- 📫 How to reach me: junedr375@gmail.com <a href="https://www.linkedin.com/in/junedr375>linkedin</a>
+- 📫 How to reach me: junedr375@gmail.com <a href="https://www.linkedin.com/in/junedr375">linkedin</a>
 - ⚡ Fun fact: I can sleep anytime anywhere 😴💤
 
 
