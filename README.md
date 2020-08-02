@@ -4,11 +4,11 @@
 <a href="https://www.linkedin.com/in/junedr375" target="_blank">
   <img align="left" alt="Juned's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/7305311/junedr375" target="_blank">
+<a href="https://stackoverflow.com/user/13691546/junedr375" target="_blank">
   <img align="left" alt="Juned's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-<a href="mailto://junedr375@gmail.com" target="_blank">
+<a href="junedr375@gmail.com" target="_blank">
   <img align="left" alt="Juned's Email ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
