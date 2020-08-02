@@ -1,3 +1,17 @@
+<a href="https://twitter.com/junedr375">
+  <img align="left" alt="Juned | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/junedr375">
+  <img align="left" alt="Juned's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://stackoverflow.com/users/7305311/junedr375">
+  <img align="left" alt="Juned's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<a href="mailto://junedr375@gmail.com">
+  <img align="left" alt="Juned's Email ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning ML and Computer vision
