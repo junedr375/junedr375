@@ -8,7 +8,7 @@
   <img align="left" alt="Juned's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-<a href="mailto://junedr375@gmail.com" target="_blank">
+<a href="mailto:junedr375@gmail.com" target="_blank">
   <img align="left" alt="Juned's Email ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
