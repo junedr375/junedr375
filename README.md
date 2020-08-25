@@ -15,7 +15,7 @@
 <br>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning ML and Computer vision
+- 🌱 I’m currently learning ML and Augmented Reality
 - 👯 I’m looking to collaborate on Flutter projects
 - 💬 Ask me about Flutter, Android, Django, Python
 - 📫 How to reach me: junedr375@gmail.com , <a href="https://www.linkedin.com/in/junedr375" target="_blank">linkedin</a>
