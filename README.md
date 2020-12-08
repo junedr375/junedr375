@@ -14,10 +14,10 @@
 <br/>
 <br>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on Flutter and MERN Stack
 - 🌱 I’m currently learning ML and Augmented Reality
 - 👯 I’m looking to collaborate on Flutter projects
-- 💬 Ask me about Flutter, Android, Django, Python
+- 💬 Ask me about Flutter, Android, Django, Python, React, MondoDB
 - 📫 How to reach me: junedr375@gmail.com , <a href="https://www.linkedin.com/in/junedr375" target="_blank">linkedin</a>
 - ⚡ Fun fact: I can sleep anytime anywhere 😴💤
 
